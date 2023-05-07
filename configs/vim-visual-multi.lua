@@ -1,0 +1,12 @@
+local g = vim.g
+g.VM_maps = {}
+g.VM_maps['Find Under']         = '<C-d>'
+g.VM_maps['Find Subword Under'] = '<C-d>'
+g.VM_maps["Select Cursor Down"] = '<M-C-Down>'
+g.VM_maps["Select Cursor Up"]   = '<M-C-Up>'
+g.VM_maps["Exit"]               = '<C-C>'
+g.VM_maps['Find Under']         = '<C-d>'
+g.VM_maps['Find Subword Under'] = '<C-d>'
+g.VM_maps["Add Cursor Down"]    = '<M-j>'
+g.VM_maps["Add Cursor Up"]      = '<M-k>'
+g.VM_maps["Toggle Mappings"]    = '<CR>'
